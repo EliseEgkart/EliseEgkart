@@ -10,4 +10,5 @@
 <div align="center">
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity#&logoColor=white"/>
  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white"/>
+ ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 </div>
