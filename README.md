@@ -19,7 +19,7 @@
 
 | 연도 | 논문 제목                                                                      | 발표처 / 저널                         | 상태               | 저자   |
 |------|------------------------------------------------------------------|----------------------------------------|--------------------|--------|
-| 2025.06 | **A Resting Drone-enabled Surveillance Framework for Real-time<br> Monitoring with Resource Efficiency in IoT-based Smart City** | IEEE Internet of Things Journal | 게재 완료  | 제1저자 |
+| 2025.06 | **A Resting Drone-enabled Surveillance Framework for Real-time Monitoring with Resource Efficiency in IoT-based Smart City** | IEEE Internet of Things Journal | 게재 완료  | 제1저자 |
 | 2024.09 | **저전력 근거리 통신 기반 ITS 환경에서의 V2V 최단 경로 탐색 및 연결 전략**                   | 한국통신학회(KICS)<br> 추계학술대회         | 발표 및 <br>포스터 발표  | 제1저자 |
 | 2024.09 | **과속 단속 카메라 기반 도로 디지털 트윈 설계**                                            | 한국통신학회(KICS)<br> 추계학술대회         | 포스터 게재         | 제2저자 |
 
