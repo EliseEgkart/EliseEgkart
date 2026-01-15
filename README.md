@@ -13,7 +13,7 @@ with hands-on experience in ROS 2, embedded platforms, and mobility-oriented pro
 ## 🌐 Portfolio Website
 
 👉 **Explore my full portfolio here**  
-🔗 https://eliseegkart.github.io/web-porfolio/
+🔗 [https://eliseegkart.github.io/portfolio_Hyeongjin_Kim/](https://eliseegkart.github.io/portfolio_Hyeongjin_Kim/)
 
 This website includes:
 - Robotics & embedded system projects  
