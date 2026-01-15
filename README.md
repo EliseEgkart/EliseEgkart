@@ -19,6 +19,18 @@ This website includes:
 - Robotics & embedded system projects  
 - Autonomous driving and mobility-related work  
 - Research-oriented activities and competitions  
-- Technical skills, awards, and experiences  
+- Technical skills, awards, and experiences
+
+<div align="center">
+
+I primarily work with the following technologies.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ros,c,cpp,python,linux,ubuntu,github,arduino,raspberrypi,unity,md,notion" />
+  </a>
+</p>
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer)
